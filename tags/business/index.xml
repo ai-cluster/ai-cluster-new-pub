@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on ai-cluster</title>
-    <link>https://ai-cluster.ru/tags/business/</link>
+    <link>https://ai-cluster.ru/ai-cluster-new-pub/tags/business/</link>
     <description>Recent content in Business on ai-cluster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Mon, 24 Sep 2018 11:10:46 +0600</lastBuildDate>
     
-	<atom:link href="https://ai-cluster.ru/tags/business/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ai-cluster.ru/ai-cluster-new-pub/tags/business/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Money and Money</title>
-      <link>https://ai-cluster.ru/blog/money-and-money/</link>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/money-and-money/</link>
       <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/blog/money-and-money/</guid>
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/money-and-money/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>New Hugo Post</title>
-      <link>https://ai-cluster.ru/blog/new-hugo-post/</link>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/new-hugo-post/</link>
       <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/blog/new-hugo-post/</guid>
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/new-hugo-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

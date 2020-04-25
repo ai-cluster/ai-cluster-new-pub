@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Company News on ai-cluster</title>
-    <link>https://ai-cluster.ru/categories/company-news/</link>
+    <link>https://ai-cluster.ru/ai-cluster-new-pub/categories/company-news/</link>
     <description>Recent content in Company News on ai-cluster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 17 Mar 2020 14:48:03 +0600</lastBuildDate>
     
-	<atom:link href="https://ai-cluster.ru/categories/company-news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ai-cluster.ru/ai-cluster-new-pub/categories/company-news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>О создании кластера по разработке и внедрению технологий искусственного интеллекта</title>
-      <link>https://ai-cluster.ru/blog/article_konference_2/</link>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference_2/</link>
       <pubDate>Tue, 17 Mar 2020 14:48:03 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/blog/article_konference_2/</guid>
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference_2/</guid>
       <description>В ТАСС (Новосибирск) состоялась пресс-конференция о создании кластера по разработке и тиражированию технологий и сервисов с использованием искусственного интеллекта.</description>
     </item>
     
     <item>
       <title>Цифровая трансформация бизнеса и искусственный интеллект</title>
-      <link>https://ai-cluster.ru/blog/article_konference/</link>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference/</link>
       <pubDate>Tue, 03 Mar 2020 14:48:03 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/blog/article_konference/</guid>
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference/</guid>
       <description>Как цифровизация может упростить жизнь бизнесу, в какие наукоемкие проекты готовы вкладываться венчурные фонды и почему фундаментальная наука — одно из главных преимуществ России в сфере высоких технологий, рассказали эксперты на конференции «Цифровизация бизнеса.</description>
     </item>
     
     <item>
       <title>ПАО «НИПС», входящий в Концерн «Автоматика» Госкорпорации Ростех, принял участие в конференции «Цифровизация бизнеса. Искусственный интеллект. Конкурентные преимущества»</title>
-      <link>https://ai-cluster.ru/blog/article_konference_1/</link>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference_1/</link>
       <pubDate>Thu, 27 Feb 2020 14:48:03 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/blog/article_konference_1/</guid>
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference_1/</guid>
       <description>«Новосибирский институт программных систем» (ПАО «НИПС»), входящий в Концерн «Автоматика» Госкорпорации Ростех, принял участие в конференции «Цифровизация бизнеса.</description>
     </item>
     
     <item>
       <title>Business Magnate</title>
-      <link>https://ai-cluster.ru/blog/business-magnate/</link>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/business-magnate/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/blog/business-magnate/</guid>
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/business-magnate/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
