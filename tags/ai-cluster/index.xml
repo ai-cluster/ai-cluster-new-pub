@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai-cluster</title>
+    <link>https://ai-cluster.ru/ai-cluster-new-pub/tags/ai-cluster/</link>
+    <description>Recent content on ai-cluster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 25 Feb 2020 11:45:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://ai-cluster.ru/ai-cluster-new-pub/tags/ai-cluster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Языки семантического домена</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/semantic-domain-specific-languages/</link>
+      <pubDate>Tue, 25 Feb 2020 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/semantic-domain-specific-languages/</guid>
+      <description>Аннотация: Обосновывается введение семантических доменных языков (sDSL) с точки зрения проблем, стоящих перед ИТ-индустрией.</description>
+    </item>
+    
+    <item>
+      <title>AI-cluster - надежный фундамент для высокотехнологичных проектов (deep tech)</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-1-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-1-konf/</guid>
+      <description>Мы разрабатываем и внедряем семантический искусственный интеллект. Решение, предлагаемое машиной, должно быть понятным для человека.</description>
+    </item>
+    
+    <item>
+      <title>Финтех и ИИ</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-3-konf/</link>
+      <pubDate>Thu, 20 Feb 2020 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-3-konf/</guid>
+      <description>Eyeline Group
+ Компания ИТ-инноваций и мобильных технологий с 2001 года     Научно-исследовательский центр в Новосибирском научном центре, Россия     Офисы в Москве/Россия, Минск/Беларусь, Остин/ТХ/США, Сингапур, Кипр/ЕС     Более 30 патентов, включая Россию, США, ЕС, Китай     Основные мероприятия в России, Юго-Восточной Азии, Африке     1000+ команд разработчиков используют платформу Eyeline MiniApps.</description>
+    </item>
+    
+    <item>
+      <title>ПРЕДПРИНИМАТЕЛИ ПОЛУЧИЛИ ЗОЛОТЫЕ МЕДАЛИ КОНКУРСА «ГЕММА» ЗА 2019 ГОД</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/predprinimateli/</link>
+      <pubDate>Fri, 27 Dec 2019 11:40:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/predprinimateli/</guid>
+      <description>25 декабря в большом зале правительства Новосибирской области состоялось ежегодное торжественное награждение предприятий и организаций России за победу в международном конкурсе качества «Лучшие товары и услуги «ГЕММА-2019».</description>
+    </item>
+    
+    <item>
+      <title>Машинный перевод русского жестового языка. Проблемы и перспективы.</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/perevod_russkogo_zhestovogo_jazyka/</link>
+      <pubDate>Fri, 27 Dec 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/perevod_russkogo_zhestovogo_jazyka/</guid>
+      <description>Доклад М.Г.Грифа и А.Приходько: &amp;ldquo;Машинный перевод русского жестового языка. Проблемы и перспективы.</description>
+    </item>
+    
+    <item>
+      <title>Новосибирск выбран для создания математического центра мирового уровня</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/news-soran-nsu-post/</link>
+      <pubDate>Tue, 15 Oct 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/news-soran-nsu-post/</guid>
+      <description>На базе Института математики СО РАН и Новосибирского госуниверситета создадут Математический центр в Академгородке.</description>
+    </item>
+    
+    <item>
+      <title>Объяснимое самообучение естественным</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/samoobuchenie/</link>
+      <pubDate>Tue, 01 Oct 2019 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/samoobuchenie/</guid>
+      <description>Автоматическое формирование языковых человеко-читаемых языковых моделей (грамматик и онтологий) обучением на не размеченных текстовых корпусах в проектах OpenCog и SingularityNET, а также - как это может использоваться в проекте Aigents®</description>
+    </item>
+    
+    <item>
+      <title>Репутационные системы в децентрализированных социальных и роевых средах</title>
+      <link>https://ai-cluster.ru/ai-cluster-new-pub/blog/reputacionnye_sistemy/</link>
+      <pubDate>Tue, 01 Oct 2019 11:45:34 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/ai-cluster-new-pub/blog/reputacionnye_sistemy/</guid>
+      <description>Вычислительные подходы для построения репутационных систем в цифровых платформах на основе работ Aigents® и SingularityNET</description>
+    </item>
+    
+  </channel>
+</rss>

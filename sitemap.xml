@@ -13,17 +13,12 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/advice/</loc>
-    <lastmod>2020-03-17T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/</loc>
     <lastmod>2020-03-17T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/company-news/</loc>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/news/</loc>
     <lastmod>2020-03-17T14:48:03+06:00</lastmod>
   </url>
   
@@ -38,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D1%81%D0%BC%D0%B8/</loc>
+    <lastmod>2020-03-17T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference/</loc>
     <lastmod>2020-03-03T14:48:03+06:00</lastmod>
   </url>
@@ -45,6 +45,481 @@
   <url>
     <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/article_konference_1/</loc>
     <lastmod>2020-02-27T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/semantic-smart-contracts/</loc>
+    <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/logical-methods/</loc>
+    <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/</loc>
+    <lastmod>2020-02-26T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/ai-cluster/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/d0sl/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/semantic-modelling/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-esdp/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/semantic-domain-specific-languages/</loc>
+    <lastmod>2020-02-25T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-1-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-9-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-10-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-14-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-4-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-12-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-16-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F-20.02.2020/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-2-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-11-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-5-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-15-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-6-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-8-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-7-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-13-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-3-konf/</loc>
+    <lastmod>2020-02-20T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/artificial-intelligence/</loc>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-potapov/</loc>
+    <lastmod>2019-12-27T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D0%BC%D1%8B/</loc>
+    <lastmod>2019-12-27T11:40:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/predprinimateli/</loc>
+    <lastmod>2019-12-27T11:40:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/perevod_russkogo_zhestovogo_jazyka/</loc>
+    <lastmod>2019-12-27T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/news-soran-nsu-post/</loc>
+    <lastmod>2019-10-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/samoobuchenie/</loc>
+    <lastmod>2019-10-01T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/reputacionnye_sistemy/</loc>
+    <lastmod>2019-10-01T11:45:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/digitalization/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-8-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-19-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-16-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-17-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-10-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-11-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-9-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-18-post/</loc>
+    <lastmod>2019-08-15T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-7-post/</loc>
+    <lastmod>2019-08-13T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-15-post/</loc>
+    <lastmod>2019-08-13T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-5-post/</loc>
+    <lastmod>2019-08-08T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-14-post/</loc>
+    <lastmod>2019-08-08T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-6-post/</loc>
+    <lastmod>2019-08-08T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-12-post/</loc>
+    <lastmod>2019-08-07T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-4-post/</loc>
+    <lastmod>2019-08-07T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-13-post/</loc>
+    <lastmod>2019-08-07T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-11-post/</loc>
+    <lastmod>2019-08-07T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-10-post/</loc>
+    <lastmod>2019-08-07T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-9-post/</loc>
+    <lastmod>2019-08-06T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-8-post/</loc>
+    <lastmod>2019-08-06T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/medicine/</loc>
+    <lastmod>2019-08-02T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-3-post/</loc>
+    <lastmod>2019-08-02T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/categories/%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0/</loc>
+    <lastmod>2019-08-02T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-6-post/</loc>
+    <lastmod>2019-07-31T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-2-post/</loc>
+    <lastmod>2019-07-31T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-4-post/</loc>
+    <lastmod>2019-07-31T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-5-post/</loc>
+    <lastmod>2019-07-31T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-7-post/</loc>
+    <lastmod>2019-07-31T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-3-post/</loc>
+    <lastmod>2019-07-30T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/sviridenko-1-post/</loc>
+    <lastmod>2019-07-30T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-1-post/</loc>
+    <lastmod>2019-07-30T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-9-post/</loc>
+    <lastmod>2019-07-30T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/pres-2-post/</loc>
+    <lastmod>2019-07-30T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-10-post/</loc>
+    <lastmod>2019-07-30T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/machine-learning/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/neural-network/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-6-post/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-4-post/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-8-post/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-7-post/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-5-post/</loc>
+    <lastmod>2019-07-29T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/vityaev-1-post/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/data-mining/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/deep-learning/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-1-post/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-3-post/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/expasoft-2-post/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/vityaev-2-post/</loc>
+    <lastmod>2019-07-25T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-5-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-4-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/mobile-networks/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/model-theoretic-methods/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/tags/risk-management/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-7-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-8-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-6-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-2-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-3-post/</loc>
+    <lastmod>2019-07-24T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/ai-cluster-new-pub/blog/palchunov-1-post/</loc>
+    <lastmod>2019-07-23T11:35:34+06:00</lastmod>
   </url>
   
   <url>
